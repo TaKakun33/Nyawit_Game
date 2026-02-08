@@ -11,7 +11,7 @@ Di versi ini kami membawa tampilan yang lebih segar dan tantangan baru.
 ### 🎨 Tampilan Baru (UI Overhaul)
 Kami merombak total antarmuka game agar lebih enak dipandang:
 * **Main Menu:** Desain baru yang lebih modern dan responsif.
-* **Pause Menu:** Tampilan menu jeda kini lebih rapi dan mudah diakses.
+* **Pause Menu:** Menambahkan tampilan menu jeda rapi dan mudah diakses.
 
 ### 💣 Gameplay Update: Watch Out!
 Hati-hati saat menangkap sawit!
@@ -50,6 +50,7 @@ Hati-hati saat menangkap sawit!
 
 ## 🕹️ Controls
 * `Arrow Keys / WASD` : Bergerak
+* `Arrow Keys / WASD` : Jeda permainan
 
 ## ⬇️ Install
 **Silahkan Install sesuai versi dan OS yang kamu inginkan**
