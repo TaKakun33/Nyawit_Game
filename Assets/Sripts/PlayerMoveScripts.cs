@@ -5,7 +5,7 @@ public class PlayerMoveScripts : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
 
     private Rigidbody2D rb;
-    public float movmentSpeed = 8f;
+    public float movmentSpeed = 9.5f;
 
     void Start()
     {

@@ -3,12 +3,11 @@ using UnityEngine;
 public class SawitScripts : MonoBehaviour
 {
     public float fallSpeed = 1.5f;
-    public int threshold = -6;
-    public GameOverScripts Logic;
+    public LogicScripts Logic;
 
     void Start()
     {
-        Logic = GameObject.FindGameObjectWithTag("GameOver").GetComponent<GameOverScripts>();
+        Logic = GameObject.FindGameObjectWithTag("Logic").GetComponent<LogicScripts>();
     }
 
     // Update is called once per frame
