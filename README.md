@@ -3,7 +3,7 @@
 <img width="1792" height="592" alt="IMG_20260208_063647" src="https://github.com/user-attachments/assets/f4c2211e-2ca9-4531-8af7-f5d8cf6032bc" />
 
 **Nyawit** adalah game 2D bergenre Caual, Arcade yang dibangun menggunakan **Unity Engine 6**.
-Game ini mengharuskan Anda menangkap makanan yang jatuh dari langit agar tidak menyentuh tanah menggunakan karakter yang dikendalikan dengan memiringkan ponsel ke kiri atau ke kanan.
+Game ini mengharuskan Anda menangkap Sawit yang jatuh dari langit agar tidak menyentuh tanah menggunakan karakter yang dikendalikan dengan menggubakan Arrow Keys / WASD untuk ke kiri atau ke kanan.
 
 ---
 ## 📸 Screenshots
